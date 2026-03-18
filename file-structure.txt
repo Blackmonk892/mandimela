@@ -1,0 +1,47 @@
+├── .expo
+  ├── devices.json
+  ├── README.md
+  └── types
+    └── router.d.ts
+├── .filetreeignore
+├── app.json
+├── assets
+  ├── expo.icon
+    ├── Assets
+      ├── expo-symbol 2.svg
+      └── grid.png
+    └── icon.json
+  └── images
+    ├── android-icon-background.png
+    ├── android-icon-foreground.png
+    ├── android-icon-monochrome.png
+    ├── expo-badge-white.png
+    ├── expo-badge.png
+    ├── favicon.png
+    ├── icon.png
+    ├── splash-icon.png
+    ├── tabIcons
+      ├── explore.png
+      ├── explore@2x.png
+      ├── explore@3x.png
+      ├── home.png
+      ├── home@2x.png
+      └── home@3x.png
+    └── tutorial-web.png
+├── babel.config.js
+├── bun.lock
+├── expo-env.d.ts
+├── global.css
+├── metro.config.js
+├── nativewind-env.d.ts
+├── package.json
+├── README.md
+├── src
+  └── app
+    ├── (auth)
+      ├── sign-in.tsx
+      ├── sign-up.tsx
+    ├── (home)
+      ├── index.tsx
+├── tailwind.config.js
+└── tsconfig.json
